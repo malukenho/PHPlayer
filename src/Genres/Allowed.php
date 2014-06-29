@@ -48,4 +48,5 @@ class Allowed
     const REGGAETON = 'Reggaeton';
     const RIDDIM = 'Riddim';
     const ROCK = 'Rock';
+    const HIPHOP = 'Hip-Hop';
 }
