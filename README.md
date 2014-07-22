@@ -1,7 +1,32 @@
 # PHPlayer
 
-![PHPlayer in action](https://photos-2.dropbox.com/t/0/AAAPfQM4NAhJi2RUBBinXXzVJnhd4eWrqlSO0Gk84rArYQ/12/153671029/png/2048x1536/3/1400810400/0/2/Captura%20de%20tela%202014-05-22%2021.57.48.png/NmUEz_XIqWiO8JQv0v_b8g2ORvRmxPHE0N26LrR9WeU)
+![PHPlayer in action](http://uploaddeimagens.com.br/images/000/316/802/original/Captura_de_tela_2014-07-21_22.19.44.png?1405991920)
 
 **A simple music player written in php.**
+
+# Running
+
+First, you need clone this project on you machine.
+
+```sh
+$ git clone https://github.com/malukenho/PHPlayer phplayer
+```
+
+Now, you can install all dependencies using composer :D
+
+```sh
+$ cd phplayer
+$ composer install
+```
+
+So, you can run the `index.php` file.
+
+```sh
+$ php index.php
+```
+
+# Commands
+
+**Work in progress**
 
 For fun!
